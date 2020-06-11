@@ -1,0 +1,10 @@
+Queries that span our primary (VAERS) and secondary (FAERS) dataset
+
+1) Look at ages across both datasets and determine which ages have highest count of adverse events in 2018. Perform an outer join between both datasets using age, and sum total adverse events by age.
+The age values in the FAERS dataset are in multiple units (years, months, days, hours). These will need to be standardized into one unit before analysis. 
+
+2) Count number of cases vs deaths vs hospitalizations between both datasets by month for the year 2018. This will show if drugs or vaccines have a higher risk, and if certain times of the year have higher rates of cases. Perform an inner join on date (by month) between both dataset, after counting the number of cases, deaths and hospitalizations for each dataset.  
+As the dates are in YYYY-MM-DD format, the month can be extracted without needing a data transform. 
+
+3) Compute the number of cases, deaths and hospitalizations by gender for each dataset in 2018. Here we can see which gender has higher risks involved with drugs and vaccines. Sum the number of cases, deaths and hospitalizations by gender for each dataset, before doing an inner join by gender.  
+As the sex column is available, no additional data transform is needed. 
