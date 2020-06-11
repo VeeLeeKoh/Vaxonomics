@@ -1,5 +1,5 @@
 # Vaxonomics
-#### Vee Lee Koh and Noah Placke 
+#### <a href='https://github.com/VeeLeeKoh'>Vee Lee Koh</a> and <a href='https://github.com/noahplacke'>Noah Placke</a> 
 ---
 ### Data modeling and dataflow programming of vaccine and drug datasets
 Data warehouse includes:
