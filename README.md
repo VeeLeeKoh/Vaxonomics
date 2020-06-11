@@ -4,10 +4,11 @@
 ### Data modeling and dataflow programming of vaccine and drug datasets
 Data warehouse includes:
 <ol>
-<li> Modeling - GCP, SQL, BigQuery and Lucidchart </li>
-<li> Transformation - Dataflow and Apache Beam </li>
-<li> Processing pipeline - Airflow </li>
-<li> Visualization - Data Studio </li>
+  <li> Modeling - GCP, SQL, BigQuery and Lucidchart </li>
+  <li> Transformation - Dataflow and Apache Beam </li>
+  <li> Integration - GCP and SQL </li>
+  <li> Processing pipeline - Airflow </li>
+  <li> Visualization - Data Studio </li>
 </ol>
 
 The primary dataset is the **Vaccine Adverse Event Reporting System (VAERS) 2018 by the Centers for Disease Control and Prevention (CDC)**, which contains the list of reported adverse events after a vaccine was administered as well as details regarding the patient, vaccine and symptoms experienced.
