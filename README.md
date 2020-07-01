@@ -13,7 +13,7 @@ Data warehouse includes:
 
 The primary dataset is the **Vaccine Adverse Event Reporting System (VAERS) 2018 by the Centers for Disease Control and Prevention (CDC)**, which contains the list of reported adverse events after a vaccine was administered as well as details regarding the patient, vaccine and symptoms experienced.
 
-The secondary dataset is the **FDA Adverse Event Reporting System (FAERS) 2018 Q4 by Food and Drug Administration (FDA)**, which is a collection of reported adverse reactions for prescription drugs with details of demographics of patients, drugs, outcomes and diagnoses.
+The secondary dataset is the **FDA Adverse Event Reporting System (FAERS) 2018 Q4 by the Food and Drug Administration (FDA)**, which is a collection of reported adverse reactions for prescription drugs with details of demographics of patients, drugs, outcomes and diagnoses.
 
 More information on the datasets can be found in <a href='DATASETS.txt'>DATASETS.txt</a>.
 
