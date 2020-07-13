@@ -20,4 +20,4 @@ More information on the datasets can be found in <a href='DATASETS.txt'>DATASETS
 ---
 ### References
 - Primary dataset source: <a href='https://vaers.hhs.gov/data/datasets.html'> VAERS 2018 by CDC </a>
-- Seconadry dataset source: <a href='https://data.nber.org/data/fda-adverse-event-reporting-system-faers-data.html'> FAERS 2018 Q4 by FDA </a>
+- Secondary dataset source: <a href='https://data.nber.org/data/fda-adverse-event-reporting-system-faers-data.html'> FAERS 2018 Q4 by FDA </a>
